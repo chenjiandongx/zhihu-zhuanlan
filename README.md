@@ -5,6 +5,7 @@
 
 ![passer](https://github.com/chenjiandongx/zhihu-zhuanlan/blob/master/images/passer.png)
 
+**已关注** 看到没有，我一直紧跟着路人甲大哥的步伐。  
 首先先爬取专栏的所有文章的信息，共 123 篇，包括作者，作者首页，文章标题，文章地址，发布时间，点赞数，评论数等信息
 
 专栏作者及文章数量信息
